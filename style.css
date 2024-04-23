@@ -1,0 +1,32 @@
+.navigator {
+  background-color: #ef9595;
+}
+.btn {
+  background-color: #ef9595;
+  color: whitesmoke;
+}
+
+span {
+  font-family: sans-serif;
+}
+#title {
+  color: #e55353;
+}
+
+h2 {
+  text-align: center;
+  font-family: sans-serif;
+  font-weight: bolder;
+  color: #e55353;
+  font-size: 60px;
+}
+#logo {
+  font-size: large;
+  color: #c71111;
+}
+footer {
+  background-color: #ef9595;
+}
+svg {
+  color: rgb(34, 116, 198);
+}
